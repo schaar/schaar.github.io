@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Blog
+title: Writings
 description: "List of blogposts"
 permalink: /posts.html
 ---
