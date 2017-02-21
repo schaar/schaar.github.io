@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Hi, I'm Matt.
+# I'm Matt Schaar.
 
 Keep an eye out here for more stuff. Coming soon.
 
