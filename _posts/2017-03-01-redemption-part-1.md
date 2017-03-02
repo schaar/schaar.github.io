@@ -15,7 +15,7 @@ tags:
 
 I want to start this out with a bit of history.  
 
-For approximately a decade of my adult life, I weaved, bobbed, and caroused my way through the oft-maligned institution known as the American Evangelical Church.:tm: As a child of Presbyterianism, the daily journey to church was mandatory, but I wasn't necessarily obligated to adhere to everything I was taught. My parents had the foresight to understand that my journey would diverge from their own; yet, deep down, they hoped I would retain some semblance of faith in *something*.  
+For approximately a decade of my adult life, I weaved, bobbed, and caroused my way through the oft-maligned institution known as the American Evangelical Church. As a child of Presbyterianism, the daily journey to church was mandatory, but I wasn't necessarily obligated to adhere to everything I was taught. My parents had the foresight to understand that my journey would diverge from their own; yet, deep down, they hoped I would retain some semblance of faith in *something*.  
 
 And that I did. In fact, in many ways my faith in the Christian structure of God increased dramatically in my college years. I took on the belief that there truly was only one pathway to eternal life - and a narrow one at that. More importantly, I barely flinched when believing that most people I encountered on a daily basis would likely be condemned to an eternity of punishment.
 
