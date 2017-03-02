@@ -1,6 +1,6 @@
 ---
 layout: page
-title: m@
+title: blurb
 sitemap: false
 permalink: /about.html
 ---
@@ -19,4 +19,4 @@ I'm a guy who likes to talk and write about things related to one of the followi
 - College football
 - and Relationships.
 
-Basically, I'm the worst person to bring to a party, because I'm just bound to piss *some*one off. Glad you're here. 
+Basically, I'm the worst person to bring to a party, because I'm just bound to bother someone about something. Glad you're here.
