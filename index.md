@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# I'm Matt Schaar.
+# Hello.
 
 My writings can be found [here](http://mattschaar.com/posts).
 
