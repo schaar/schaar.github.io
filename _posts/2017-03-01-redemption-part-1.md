@@ -13,6 +13,8 @@ tags:
 
 *Note: I originally expected this to be a singular blog, but I vamped so much on my religious history that it warranted its own entry.*
 
+![](https://cloud.githubusercontent.com/assets/3597934/23522998/e9dcec62-ff39-11e6-9b4f-34a67dafd821.jpg)
+
 I want to start this out with a bit of history.  
 
 For approximately a decade of my adult life, I weaved, bobbed, and caroused my way through the oft-maligned institution known as the American Evangelical Church. As a child of Presbyterianism, the daily journey to church was mandatory, but I wasn't necessarily obligated to adhere to everything I was taught. My parents had the foresight to understand that my journey would diverge from their own; yet, deep down, they hoped I would retain some semblance of faith in *something*.  
