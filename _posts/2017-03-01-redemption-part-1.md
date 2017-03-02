@@ -6,6 +6,9 @@ categories:
   - Relationships
   - Religion
 tags:
+  - Heartbreak
+  - Relationships
+  - Religion
 ---
 
 *Note: I originally expected this to be a singular blog, but I vamped so much on my religious history that it warranted its own entry.*
@@ -44,6 +47,6 @@ But then imagine if that spouse or friend held a secret - or revealed a side of 
 
 So, I had a choice to make: I could remain committed to the church and its community and invest in fixing things, or I could walk away. The former fit my typical pattern of behavior in conflict: stick around, fix things, take a few hits to the ego, but *stay in the ring, man.* And I tried - and tried. But the church fit me like a suit a little too small to take in for tailoring.  
 
-That's the first time I've given up on something that meant so much to me. It was a formative, beautiful, and extremely messy period of my life that ran its course. Just like a once-beautiful relationship. 
+That's the first time I've given up on something that meant so much to me. It was a formative, beautiful, and extremely messy period of my life that ran its course. Just like a once-beautiful relationship.
 
 *To Be Continued.*
