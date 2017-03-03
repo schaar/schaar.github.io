@@ -11,9 +11,17 @@
   overflow-y: auto;
 }
 
-.block-left,
+.block-left {
+  width: 30%;
+  height: 100%;
+  position: relative;
+  display: table;
+  > div {
+    display: table-cell;
+    vertical-align: middle;
+  }
 .block-right {
-  width: 50%;
+  width: 70%;
   height: 100%;
   position: relative;
   display: table;
@@ -462,7 +470,7 @@ canvas {
 }
 
 .section-title {
-  font-size: 100px;
+  font-size: 80px;
   position: absolute;
   bottom: 50px;
   left: 50px;
