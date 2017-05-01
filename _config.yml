@@ -33,9 +33,9 @@ google-analytics: UA-88064661-1
 #google.plus:        username
 twitter:            mattschaar
 #facebook:           username
-github:             moby
+github:             schaar
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          mattschaar
 #xing:              username
 instagram:          mattschaar
 #lastfm:            username
@@ -54,7 +54,6 @@ instagram:          mattschaar
 #hackernews:        username
 #behance:           username
 medium:             mattschaar
-linkedin:           mattschaar
 
 # Gems
 gems:
