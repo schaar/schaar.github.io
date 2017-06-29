@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/edge-case-nested-and-mixed-lists/</loc>
-<lastmod>2009-05-15T00:00:00-07:00</lastmod>
+<loc>/breaking/</loc>
+<lastmod>2017-06-29T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/redemption-part-1/</loc>
+<lastmod>2017-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/giving/</loc>
+<lastmod>2016-11-27T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/election/</loc>
+<lastmod>2016-11-07T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/blocked/</loc>
+<lastmod>2015-11-22T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/walls/</loc>
+<lastmod>2013-08-20T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>/</loc>
