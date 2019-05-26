@@ -28,4 +28,6 @@ Having founded several businesses on my own, I've brought those experiences to a
 
 ### Coaching and Training
 
-|  |   |   |
+|![Workplanning](https://user-images.githubusercontent.com/3597934/58385202-c0650000-7fba-11e9-92ef-42a112f19f5b.jpg)  | ![Excel](https://user-images.githubusercontent.com/3597934/58385243-3d907500-7fbb-11e9-807c-45dda63043ee.jpg) | ![Wunderchat](https://user-images.githubusercontent.com/3597934/58385305-4afa2f00-7fbc-11e9-8165-d30cb57c7cc4.png)|
+
+Growth and curiosity took me places unexpected and surprising; I've been fortunate enough to share those experiences with others. I've mentored and coached organizations like [Challenge Detroit](![Wunderchat](https://user-images.githubusercontent.com/3597934/58385305-4afa2f00-7fbc-11e9-8165-d30cb57c7cc4.png)) and [Detroit Venture Partners](http://detroit.vc/), hosted training courses at [General Assembly](https://generalassemb.ly/), and spoken at events and venues like [Dreamforce](https://www.salesforce.com/dreamforce/) and the [Holberton School](https://www.holbertonschool.com/).
