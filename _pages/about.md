@@ -1,22 +1,17 @@
 ---
 layout: page
-title: blurb
+title: Hello
 sitemap: false
 permalink: /about.html
 ---
 ![](https://cloud.githubusercontent.com/assets/3597934/23150780/1f545e70-f7ab-11e6-91a1-d3c30c27a93e.jpg)
 
-## Hey. I'm Matt.
+## Hi, I'm Matt.
 
-I'm a guy who likes to talk and write about things related to one of the following topics:
+I’m an amateur ultramarathon runner and coffee enthusiast with 15 years of experience as a product marketing leader, technical product manager, and consultant across multiple industries. Each phase of my work has mixed deep technical insights, strategic thinking, and customer engagement both internally and externally, all with a goal of making products for a world in need.
 
-- Technology
-- Politics
-- Gender equality
-- Trail running
-- Heartbreak
-- Religion
-- College football
-- and Relationships.
+Here are a few examples of the work I've done. For more lengthy details, you can have a glance at my [résumé](https://github.com/schaar/schaar.github.io/files/3220561/Schaar_ResumeMay2019.pdf).
 
-Basically, I'm the worst person to bring to a party, because I'm just bound to bother someone about something. Glad you're here.
+-------
+
+### Product Marketing
