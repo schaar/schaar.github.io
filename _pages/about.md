@@ -14,4 +14,16 @@ Here are a few examples of the work I've done. For more lengthy details, you can
 
 -------
 
-### Product Marketing
+### Product
+
+| ![](https://user-images.githubusercontent.com/3597934/58384933-4b43fb80-7fb7-11e9-9e29-eb79664333c5.jpg) | ![](https://user-images.githubusercontent.com/3597934/58384957-9a8a2c00-7fb7-11e9-91ad-d169433a1bab.jpg)  | ![](https://user-images.githubusercontent.com/3597934/58384977-d7562300-7fb7-11e9-89cb-e6c32c5692b9.jpg)  |
+
+Technology's impact on the world is still nebulous: neither good nor bad, destructive nor beneficial. I aim to lean on the right side of that history, and I've helped bring products like the [Civis Platform](https://www.civisanalytics.com/civis-platform/), [Heroku Postgres](https://www.heroku.com/postgres), and [GitHub Enterprise](https://github.com/enterprise) to the marketplace.
+
+### Business Strategy
+
+|  |   |   |
+
+### Coaching and Training
+
+|  |   |   |
