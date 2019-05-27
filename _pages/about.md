@@ -22,7 +22,7 @@ Technology's impact on the world is still nebulous: neither good nor bad, destru
 
 ### Business Strategy
 
-| ![Silutions](https://user-images.githubusercontent.com/3597934/58385071-aaeed680-7fb8-11e9-8859-d9310a542216.jpg) | ![financials](https://user-images.githubusercontent.com/3597934/58385101-0751f600-7fb9-11e9-9e77-9f5c3a9534c3.jpg)  | ![Countries](https://user-images.githubusercontent.com/3597934/58385125-6b74ba00-7fb9-11e9-9d5c-fa35e8134dbc.jpg)  |
+| <img src="https://user-images.githubusercontent.com/3597934/58385071-aaeed680-7fb8-11e9-8859-d9310a542216.jpg" alt="Silutions" width="150" height="100" /> | <img src="https://user-images.githubusercontent.com/3597934/58385101-0751f600-7fb9-11e9-9e77-9f5c3a9534c3.jpg" width="150" height="100" />   | <img src="https://user-images.githubusercontent.com/3597934/58385125-6b74ba00-7fb9-11e9-9d5c-fa35e8134dbc.jpg" width="150" height="100" />  |
 
 Having cut my strategic teeth at [BCG](https://www.bcg.com/) and after founding several businesses on my own, I've brought those experiences to a broad and far-reaching client base such as [The Skillman Foundation](https://www.skillman.org/), [Imprint](https://imprint.us/), [LiveRamp](https://liveramp.com/), and the [World Food Programme](https://www1.wfp.org/). I've built plans to help companies raise money, enter new markets, become more efficient, and explore technology in new ways.
 
