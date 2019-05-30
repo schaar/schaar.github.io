@@ -14,14 +14,14 @@ Here are a few examples of the work I've done. For more lengthy details, you can
 
 -------
 
-### Product
+### Product  
 
 Technology's impact on the world is still nebulous: neither good nor bad, destructive nor beneficial. I aim to lean on the right side of that history, and I've helped bring products like the [Civis Platform](https://www.civisanalytics.com/civis-platform/), [Heroku Postgres](https://www.heroku.com/postgres), and [GitHub Enterprise](https://github.com/enterprise) to the marketplace.
 
-### Business Strategy
+### Business Strategy  
 
 Having cut my strategic teeth at [BCG](https://www.bcg.com/) and after founding several businesses on my own, I've brought those experiences to a broad and far-reaching client base such as [The Skillman Foundation](https://www.skillman.org/), [Imprint](https://imprint.us/), [LiveRamp](https://liveramp.com/), and the [World Food Programme](https://www1.wfp.org/). I've built plans to help companies raise money, enter new markets, become more efficient, and explore technology in new ways.
 
-### Coaching and Training
+### Coaching and Training  
 
 Growth and curiosity took me places unexpected and surprising; I've been fortunate enough to share those experiences with others. I've mentored and coached organizations like [Challenge Detroit](![Wunderchat](https://user-images.githubusercontent.com/3597934/58385305-4afa2f00-7fbc-11e9-8165-d30cb57c7cc4.png)) and [Detroit Venture Partners](http://detroit.vc/), hosted training courses at [General Assembly](https://generalassemb.ly/), and spoken at events and venues like [Dreamforce](https://www.salesforce.com/dreamforce/) and the [Holberton School](https://www.holbertonschool.com/).
