@@ -10,9 +10,15 @@ permalink: /about.html
 
 I’m an amateur ultramarathon runner and coffee enthusiast with 15 years of experience as a product marketing leader, technical product manager, and consultant across multiple industries. Each phase of my work has mixed deep technical insights, strategic thinking, and customer engagement both internally and externally, all with a goal of making products for a world in need.
 
-Here are a few examples of the work I've done. 
+Here are a few examples of the work I've done.
 
 -------
+
+### Advising and Investing
+
+I'm currently the Director of Portfolio Engagement at [Accion Venture Lab](https://www.accion.org/how-we-work/invest/accion-venture-lab), where I provide strategic support to over 40 early-stage fintech companies on five continents. Our work also feeds into our investment process, and I've written about some of the [aspects of our companies](https://www.accion.org/wheres-the-next-credit-karma-look-to-emerging-markets) that make for an attractive financial and social investment thesis.
+
+I also do some angel investing on the side, where I've worked with Seed and Series A companies (as an individual and syndicate) in the cleantech, consumer tech, and DevOps markets. 
 
 ### Product  
 
