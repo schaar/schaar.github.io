@@ -8,7 +8,7 @@ permalink: /about.html
 
 ## Hi, I'm Matt.
 
-I’m an amateur ultramarathon runner and coffee enthusiast with 15 years of experience as a product marketing leader, technical product manager, and consultant across multiple industries. Each phase of my work has mixed deep technical insights, strategic thinking, and customer engagement both internally and externally, all with a goal of making products for a world in need.
+I’m an amateur ultramarathon runner and coffee enthusiast with 15 years of experience as a product marketing leader, technical product manager, and consultant across multiple industries. Each phase of my work has mixed deep technical insights, strategic thinking, and customer engagement both internally and externally, all with a goal of making products that consciously make the world a better place.
 
 Here are a few examples of the work I've done.
 
