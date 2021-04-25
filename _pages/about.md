@@ -16,13 +16,13 @@ Here are a few examples of the work I've done.
 
 ### Advising and Investing
 
-I'm currently the Director of Portfolio Engagement at [Accion Venture Lab](https://www.accion.org/how-we-work/invest/accion-venture-lab), where I provide strategic support to over 40 early-stage fintech companies on five continents. Our work also feeds into our investment process, and I've written about some of the [aspects of our companies](https://www.accion.org/wheres-the-next-credit-karma-look-to-emerging-markets) that make for an attractive financial and social investment thesis.
+I'm currently the Senior Director of Portfolio Engagement at [Accion Venture Lab](https://www.accion.org/how-we-work/invest/accion-venture-lab), where I provide strategic support to over 50 early-stage fintech companies on five continents. Our work also feeds into our investment process, and I've written about some of the [aspects of our companies](https://www.accion.org/wheres-the-next-credit-karma-look-to-emerging-markets) that make for an attractive financial and social investment thesis.
 
-I also do some angel investing on the side, where I've worked with Seed and Series A companies (as an individual and syndicate) in the cleantech, consumer tech, and DevOps markets. 
+I also do some [angel investing on the side](https://angel.co/u/schaar), where I've worked with Seed and Series A companies (as an individual and syndicate) in the cleantech, consumer tech, and DevOps markets. 
 
 ### Product  
 
-Technology's impact on the world is still nebulous: neither good nor bad, destructive nor beneficial. I aim to lean on the right side of that history, and I've helped bring products like the [Civis Platform](https://www.civisanalytics.com/civis-platform/), [Heroku Postgres](https://www.heroku.com/postgres), and [GitHub Enterprise](https://github.com/enterprise) to the marketplace.
+Technology's impact on the world is still nebulous: neither good nor bad, destructive nor beneficial. I aim to lean on the right side of that history, and I've helped bring products like the [Civis Platform](https://www.civisanalytics.com/civis-platform/), [Heroku Postgres](https://www.heroku.com/postgres), and [GitHub Enterprise](https://github.com/enterprise) to market.
 
 ### Business Strategy  
 
